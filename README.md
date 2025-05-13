@@ -2,7 +2,7 @@
 
 💫Hi there! I'm a Computer Science student at St. Paul's University (SPU) 💻. <br>
 😎I’m passionate about building web apps 🌐, exploring data science 📊, and solving real-world problems with code ⚙️.<br>
-🌱 Currently learning: React.js, Python, and SQL <br>
+🌱 Intergration of Various API'S including MPESA DARAJA API <br>
 🛠️ I enjoy: Full-stack development, AI & machine learning<br> 🤝 Always happy to collaborate on open-source projects.<br>
 ✉️ Let’s connect!
 
