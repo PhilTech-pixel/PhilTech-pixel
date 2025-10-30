@@ -4,7 +4,7 @@
 😎I’m passionate about building web apps 🌐, exploring data science 📊, and solving real-world problems with code ⚙️.<br>
 🌱 Intergration of Various API'S including MPESA DARAJA API <br>
 🛠️ I enjoy: Full-stack development, AI & machine learning<br> 🤝 Always happy to collaborate on open-source projects.<br>
-✉️ Let’s connect!
+✉️ Let’s connect! Email: philipnjoroge255@gmail.com
 
 
 # 💻 Tech Stack:
